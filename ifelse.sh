@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# ---- is even ----- #
-
 echo -e "\e[1;32m -------------------- NUMBER EVEN CHECK -------------------- \e[0m";
 
 read -p "Enter number: " number;
